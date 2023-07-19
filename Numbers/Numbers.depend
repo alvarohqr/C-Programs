@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1689713081 source:c:\users\alvar\onedrive\documentos\cursos\c programming exercises\numbers\armstrongnumbers.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
+1689729390 source:c:\users\alvar\onedrive\documentos\cursos\c programming exercises\numbers\sumproduct_evenodd.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
+1689730449 source:c:\users\alvar\onedrive\documentos\cursos\c programming exercises\numbers\perfectnumber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1689731163 source:c:\users\alvar\onedrive\documentos\cursos\c programming exercises\numbers\perfectsquare.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1689732068 source:c:\users\alvar\onedrive\documentos\cursos\c programming exercises\numbers\swapnumbersv2.c
+	<stdio.h>
+	<stdlib.h>
+
